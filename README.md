@@ -1,6 +1,9 @@
-# project
+# Features
 
-A new Flutter project.
+1. **User Registration:** Users can create new accounts using their email and password.
+2. **User Login:** Registered users can log in to their accounts.
+3. **Firebase Authentication:** User authentication is handled using Firebase Authentication, which supports various authentication methods, including email/password, Google Sign-In, and more.
+4. **Dashboard:** Authenticated users are redirected to a dashboard screen with a simple interface.
 
 ## Getting Started
 
