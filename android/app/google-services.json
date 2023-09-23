@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364631948880",
+    "project_id": "project-intern-bbe55",
+    "storage_bucket": "project-intern-bbe55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364631948880:android:af00b7ba69c48e5e3f5b55",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHyFWEwpCCQuE4SP1gPeavE-CA-xVWVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
