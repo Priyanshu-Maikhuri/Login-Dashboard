@@ -1,3 +1,5 @@
+# [Apk](https://www.dropbox.com/scl/fi/5t2zfz27dr0hkts7jfmdn/app-armeabi-v7a-release.apk?rlkey=gbk3npasv9erujr5rf1eanmoo&dl=0)
+
 # Features
 
 1. **User Registration:** Users can create new accounts using their email and password.
